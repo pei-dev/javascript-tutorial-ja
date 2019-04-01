@@ -43,7 +43,7 @@ function showPrimes(n) {
 }
 ```
 
-これは関数 `isPrime` として括られた、よりよりパターンです。:
+これは関数 `isPrime` として括られた、より良いパターンです。:
 
 
 ```js
